@@ -1,0 +1,11 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    justify-items: center;
+  }
+  #navbar input{
+    width: 70%;
+    height: 40px;
+    border-radius: 10px;
+    border: 2px solid teal;
+  }
